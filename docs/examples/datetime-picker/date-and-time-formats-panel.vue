@@ -3,7 +3,7 @@
     <div class="block">
       <el-date-picker
         v-model="value1"
-        type="datetime"
+        type="month"
         placeholder="Pick a Date"
         format="YYYY-MM-DD HH:mm:ss"
         date-format="MMM DD, YYYY"
